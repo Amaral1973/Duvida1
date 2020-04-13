@@ -1,0 +1,9 @@
+C:\Programas\Duvida1\bin\Debug\Duvida1.exe.config
+C:\Programas\Duvida1\bin\Debug\Duvida1.exe
+C:\Programas\Duvida1\bin\Debug\Duvida1.pdb
+C:\Programas\Duvida1\obj\Debug\Duvida1.csprojAssemblyReference.cache
+C:\Programas\Duvida1\obj\Debug\Duvida1.Form1.resources
+C:\Programas\Duvida1\obj\Debug\Duvida1.Properties.Resources.resources
+C:\Programas\Duvida1\obj\Debug\Duvida1.csproj.GenerateResource.cache
+C:\Programas\Duvida1\obj\Debug\Duvida1.exe
+C:\Programas\Duvida1\obj\Debug\Duvida1.pdb
